@@ -24,7 +24,7 @@ Lesser General Public License for more details.
 #define LM 0
 #define RM 1
 
-biWheel4::biWheel4(int in1, int in2, int in3, int in4)
+biWheel::biWheel(int in1, int in2, int in3, int in4)
 {
 	pinMode(in1, OUTPUT);
 	pinMode(in2, OUTPUT);
