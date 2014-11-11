@@ -46,14 +46,5 @@ BiWheel
 
 
 
-Свяжитесь с нами
--------
-[Официальный сайт](http://www.skbrii.ru)
-
-[Группа Вконтакте](https://www.vk.com/skbrii)
-
-
-
-
 
 
